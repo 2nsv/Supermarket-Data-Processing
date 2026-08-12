@@ -1,4 +1,4 @@
-# 🛒 Supermarket Sales Analysis & ETL Pipeline
+# 🛒 Supermarket Sales Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
