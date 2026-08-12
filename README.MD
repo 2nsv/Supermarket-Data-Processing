@@ -6,7 +6,7 @@ This project uses **Python and Pandas** to clean, prepare, and analyze supermark
 
 The dataset used in this project is:
 
-`SuperMarket.csv`
+[`SuperMarket.csv`](SuperMarket.csv)
 
 The goal is to clean the data and answer business questions using the available sales and transaction information.
 
@@ -16,8 +16,7 @@ The goal is to clean the data and answer business questions using the available 
 
 * Python
 * Pandas
-* Matplotlib / Seaborn (Optional)
-* Streamlit (Optional)
+* Matplotlib (Optional)
 
 ---
 
@@ -45,9 +44,9 @@ The following data-cleaning steps were performed:
 
 ### 1. Total Revenue
 
-**Result:**
+**Total Revenue :  324382 EGP**
 
-> Update with your result. for example ![Revenue by City](images/revenue_by_city.png)
+![Revenue by City](images/Total Revenue.png)
 
 ---
 
