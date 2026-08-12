@@ -46,7 +46,7 @@ The following data-cleaning steps were performed:
 
 **Total Revenue :  324382 EGP**
 
-> ![Revenue by City](images/Total Revenue.png)
+> ![Revenue by City](images/Total_Revenue.png)
 
 ---
 
